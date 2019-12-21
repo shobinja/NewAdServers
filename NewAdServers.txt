@@ -1,3 +1,7 @@
+# AdBlock for iOS DNS Proxy rules 
+# https://itunes.apple.com/us/app/adblock/id691121579
+# Exported 10 Nov 2017 at 14:18:37
+
 Chinese Adservers/A8/a8.com
 Chinese Adservers/A8/a8.net
 Chinese Adservers/Apple Daily/intowow.applefeed.com.tw
