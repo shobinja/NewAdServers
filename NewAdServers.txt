@@ -1,5 +1,3 @@
-# AdBlock for iOS DNS Proxy rules 
-# Exported 11 Dec 2019
 Chinese Adservers/A8/a8.com
 Chinese Adservers/A8/a8.net
 Chinese Adservers/Apple Daily/intowow.applefeed.com.tw
