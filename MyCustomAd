@@ -1,3 +1,4 @@
+# Pi-Hole
 0.0.0.0 mouseflow.com
 0.0.0.0 xiti.com
 0.0.0.0 androidtvchannels-pa.googleapis.com
@@ -6,3 +7,28 @@
 0.0.0.0 analytics.plex.tv
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 dit.whatsapp.net
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 grs.dbankcloud.asia
+0.0.0.0 grs.dbankcloud.eu
+0.0.0.0 www.googleadservices.com
+0.0.0.0 grs.dbankcloud.cn
+0.0.0.0 grs.dbankcloud.com
+0.0.0.0 metrics-dra.dt.hicloud.com
+
+#AdGuard
+||mouseflow.com^
+||xiti.com^
+||androidtvchannels-pa.googleapis.com^
+||metrics.icloud.com^
+||app-measurement.com^
+||analytics.plex.tv^
+||securepubads.g.doubleclick.net^
+||dit.whatsapp.net^
+||ssl.google-analytics.com^
+||grs.dbankcloud.asia^
+||grs.dbankcloud.eu^
+||www.googleadservices.com^
+||grs.dbankcloud.cn^
+||grs.dbankcloud.com^
+||metrics-dra.dt.hicloud.com^
+
