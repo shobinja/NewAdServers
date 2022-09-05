@@ -1,0 +1,27 @@
+# GOOGLE BLACKLIST
+
+||api.instabug.com^
+||app-measurement.com^
+||content-storage-upload.googleapis.com^
+||crashlyticsreports-pa.googleapis.com^
+||device-provisioning.googleapis.com^
+||fcmtoken.googleapis.com^
+||firebaseremoteconfig.googleapis.com^
+||gmail.com^
+||googleapis.com^
+||googleusercontent.com^
+||i.ytimg.com^
+||mail.me.com^
+||mobile-gtalk.l.google.com^
+||mtalk.google.com^
+||notifications-pa.googleapis.com^
+||oauth2.googleapis.com^
+||photos-ugc.l.googleusercontent.com^
+||pki-goog.l.google.com^
+||redirector.googlevideo.com^
+||smtp.gmail.com^
+||www.google.com^
+||www.googleapis.com^
+||www.gstatic.com^
+||www.youtube.com^
+||yt3.ggpht.com^
