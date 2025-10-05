@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "action": "deny",
+      "process": "any",
+      "remote-domains": [
+        "gsp-ssl.ls.apple.com”,
+        "gsp.ls.apple.com”,
+        "metrics.apple.com”,
+        "securemetrics.apple.com”,
+        "feedbackws.apple.com”,
+        "iad.apple.com”,
+        "iadcontent.apple.com”,
+        "ocsp.apple.com”,
+        "crl.apple.com”,
+	“gs-loc.apple.com”, 
+	“location.apple.com”,
+	“swscan.apple.com”, 
+	“swquery.apple.com”, 
+	“swcdn.apple.com”, 
+	“xp.apple.com”,
+	“crashreport.apple.com”, 
+	“radarsubmissions.apple.com”,
+	“siri.apple.com”, 
+	“dictation.apple.com”
+      ],
+      "notes": "Block Apple telemetry and analytics"
+    }
+  ]
+}
+
